@@ -1,0 +1,4 @@
+progress.md
+.build/
+*.app
+.DS_Store
